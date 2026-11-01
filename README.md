@@ -17,6 +17,7 @@
 [Trello Link](https://trello.com/invite/b/6a60df24895cbc97e40b20fa/ATTI9746adfad79fb86ae2f119354a11547b7B91DFB6/unilinkhub)
 
 ### Reflection
+*Our plans and tasks were all created and listed in a product backlog we made on Trello and we made one to strategies on how we going to created this project and doing it in the most efficient way as possible. Most of the tasks we have in our product backlog that we did are key goals to build this project to meet our clients requirements to help make it easier for them to run their business on our platform. We weren't always going the right direction there were times in the meeting we decided to change directions or come up with new ideas because of issues we had or because we were progressing on a slow pace. Prioritizing our work we took very seriously because there were certain tasks we had to complete before starting with others because they are dependent on each other. Basically in our product backlog it starts with tasks of our plans on what to do and how we going to work on the way forward and then has tasks of build and coding the platform and setting everything up for our clients comes afterwards*   
 
 ## SPRINT BACKLOG 
 ### Evidence 
