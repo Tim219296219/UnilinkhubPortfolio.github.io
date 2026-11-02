@@ -1,4 +1,11 @@
 # UNILINKHUB PORTFOLIO
+Good day my name is Tim and thank you for taking the time to read through my portfolio of a project my team and I created called UNILINKHUB.
+### TEAM MEMBERS:
+* *Tim Davids 219296219*
+* *Tshephiso Pretty Kekana 240264681*
+* *Siphokuhle Gedze 222357614*
+* *Matinisa Lubisi 222527269*
+* *Tondiwe Andani Gola 221017054*
 
 ## AGILE TEAM CHARTER 
 ### Evidence 
