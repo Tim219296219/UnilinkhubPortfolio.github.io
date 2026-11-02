@@ -1,5 +1,5 @@
 # UNILINKHUB PORTFOLIO
-Good day my name is Tim and thank you for taking the time to read through my portfolio of a project my team and I created called UNILINKHUB.
+**Good day my name is Tim and thank you for taking the time to read through my portfolio of a project my team and I created called UNILINKHUB. We created a business platform online to help students who started a businesses to either provide services or to sell products. We connect them to others and create an environment to safely conduct their business and we also help record there information of their businesses. Below you are going to be reading evidence and my reflections on the work I did on the project.** 
 ### TEAM MEMBERS:
 * *Tim Davids 219296219*
 * *Tshephiso Pretty Kekana 240264681*
