@@ -12,6 +12,7 @@
 
 ## AGILE TEAM CHARTER 
 ### Evidence 
+[Agile team charter document](/Githubportfolio/UNILINKHUB_Agile_Team_Charter_%20(signed).pdf)
 
 ### Reflection
 *When planning and detailing what we going to do for our project on our Agile team charter I realized and learned a lot about our project we created and things about my team. I realized that when looking at what we had to do there were a lot of key responsibilities we had to take seriously because there were many issues that could cause us setbacks. It was also good to know how important it is for the team to all be on the same page with the same understanding it makes working together better. It was also good to learn about everyone skills and what they are best at when managing the workload so that our project can progress more efficiently. What was also good to experience is working with the knowledge of core values and behaviors when working with the team so that we can see how much respect we have for each other. What also made this experience worth it was the manageable risk and constraints we had because getting the experience of what its like working under pressure is going to help us in the future.*  
